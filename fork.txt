@@ -1,3 +1,23 @@
 # This created by SteveOloo
 
 -> This is to try to understand projects contributions and use of other peoples projects.
+understanding git commands.
+- git init
+- git clone
+- git add
+- git status
+- git commit
+- git checkout
+- git add
+- git push
+- git pull
+- git diff
+- git stash
+
+Main concepts that should be understoood.
+- Initializing.
+- Merging
+- Pushing and pulling.
+- forking
+- branching.
+resolving merge conflicts.
